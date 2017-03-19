@@ -1,0 +1,15 @@
+{
+  "name": "personal_shopper",
+  "version": "1.0.0",
+  "description": "grocery list compiler",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "sopandobhal@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
+}
